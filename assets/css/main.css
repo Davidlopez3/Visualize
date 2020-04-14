@@ -1410,7 +1410,7 @@
 
 	body {
 		background-color: #000;
-		background-image: url("file:///C:/Users/David%20F%20Lopez%20Mendez/Desktop/android/temp/TEMP2/images/REDWHITE.png");
+		background-image: url("/images/REDWHITE.png");
 		background-size: cover;
 		background-position: top center;
 	}
